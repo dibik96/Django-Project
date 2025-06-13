@@ -1,0 +1,1 @@
+from .insert_dummy_data import Command as InsertDummyData
